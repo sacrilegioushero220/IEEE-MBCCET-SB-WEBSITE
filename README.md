@@ -8,7 +8,7 @@ Contribute anything from your side . Let it be anything, a desgin,media,content 
 
 ### Prerequisites
 
-Basic Knowledge in Web developement
+Basic Knowledge in Web developement tools like HTML ,CSS ,JAVASCRIPT and many more.
 
 ## Contributing
 
@@ -26,4 +26,5 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 * Hat tip to anyone whose code was used
 * Inspiration
+* motivation
 * etc
