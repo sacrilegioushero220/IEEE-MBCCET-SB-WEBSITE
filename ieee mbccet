@@ -1,0 +1,408 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ieee mbccet sb</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.3.1/dist/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+</head>
+<body>
+    <header class="bg-info text-light">
+            <div class="row">
+                <div class="col-xs-12 ">
+                  <nav class="navbar navbar-expand-lg navbar-light bg-info">
+                    
+                    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                      <span class="navbar-toggler-icon"></span>
+                    </button>
+                  
+                    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                      <h2>IEEE MBCCET SB</h2>
+                      <ul class="navbar-nav mr-auto">
+                        
+                        <li class="nav-item">
+                          <a class="nav-link text-light" href="#about">About</a>
+                        </li>
+                        <li class="nav-item text-light">
+                          <a class="nav-link text-light" href="#social">Contact Us</a>
+                        </li>
+                        <a class="nav-link text-light" href="https://www.ieee.org/">IEEE.org</a>
+                      </li>
+                      <li class="nav-item">
+                        <a class="nav-link text-light" href="https://standards.ieee.org/">IEEE standards</a>
+                      </li>
+                      <li class="nav-item">
+                        <a class="nav-link text-light" href="https://spectrum.ieee.org/">IEEE Spectrum</a>
+                      </li>
+                      <a class="nav-link text-light" href="https://www.ieeer10.org/">IEEE Region 10</a>
+                    </li>
+                    <li class="nav-item">
+                      <a class="nav-link text-light" href="https://ieeekerala.org/">IEEE Kerala section</a>
+                    </li>
+                    <li class="nav-item">
+                      <a class="nav-link text-light" href="https://ieeexplore.ieee.org/">IEEE More sites</a>
+                    </li>
+                        <li class="nav-item">
+                     
+                        <li class="nav-item dropdown">
+                          <a class="nav-link dropdown-toggle text-light" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                            IEEE MBCCET SB 
+                          </a>
+                          <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                            <a class="dropdown-item" href="#sb">IEEE EXECOM SB</a>
+                            <a class="dropdown-item" href="#cs">IEEE CS SB</a>
+                            <a class="dropdown-item" href="#cis">IEEE CIS SB</a>
+                            <a class="dropdown-item" href="#wie">IEEE WIE SB</a>
+                            <a class="dropdown-item" href="#ias">IEEE IAS Sb</a>
+                          </div>
+                        </li>
+                       
+                      </ul><br>
+                      
+                    
+                  </nav>
+                </div>
+            </div>
+        </header>
+        <section>
+            <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
+                <ol class="carousel-indicators">
+                  <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
+                  <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
+                  <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
+                </ol>
+                <div class="carousel-inner">
+                  <div class="carousel-item active">
+                    <img class="d-block w-100" src="image/image5.jpg" alt="First slide">
+                  </div>
+                  <div class="carousel-item">
+                    <img class="d-block w-100" src="image/cl1.jpg" alt="Second slide">
+                  </div>
+                  <div class="carousel-item">
+                    <img class="d-block w-100" src="image/cl2.jpg" alt="Second slide">
+                  </div>
+                </div>
+                <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
+                  <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                  <span class="sr-only">Previous</span>
+                </a>
+                <a class="carousel-control-next" href="#carouselExampleIndicators" role="button" data-slide="next">
+                  <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                  <span class="sr-only">Next</span>
+                </a>
+              </div>
+        </section>
+        <br>
+        <section class="text-center">
+          <div class="col-xs-12">
+        <h1>Welcome To IEEE 
+          <br>MBCCET SB
+        </h1>
+        </div>
+      </section>
+        <section>
+            <div class="continer bg-light">
+              <div class="row">
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<div class="col-xs-12 col-sm-5 m-5">
+                      <h1 id="about">About IEEE</h1>
+  <h5>IEEE is the world's largest technical professional organization dedicated to advancing technology for the benefit of humanity. IEEE and its members inspire a global community through its highly cited publications, conferences, technology standards, and professional and educational activities.</h5>
+                    </div>
+                    <div class="col-xs-12 col-sm-5 m-5">
+                     <h1 id="about">About IEEE <br> MBCCET SB</h1>
+  <h5> The prime motive behind IEEE Student Branch at MBCCET is to make the students be a part of the largest technological community in the world. It’s a global platform to expose their technical ideas as well as to make connections with great personalities.</h5>
+                    </div>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                    <div class="col-xs-12 col-sm-5 m-5">
+                     
+
+                  <a class="btn btn-primary" href="https://www.ieee.org/about/at-a-glance.html#:~:text=IEEE%20is%20the%20world's%20largest,and%20professional%20and%20educational%20activities." role="button">know more</a>
+                    </div>
+      <section class="p-5">
+          <div class="col-xs-12">
+            <div class="jumbotron">
+              <h1 class="display-4">Why IEEE?</h1>
+              <p class="lead">IEEE and its members inspire a global community to innovate for a better tomorrow through highly cited publications, conferences, technology standards, and professional and educational activities. IEEE is the trusted “voice” for engineering, computing, and technology information around the globe.</p>
+              <hr class="my-4">
+              <ul>
+                <li>
+                  Compliance forums and top-level discussions—gain access to a virtual community forum for safety engineers and technical professionals
+                </li>
+                <li>
+                  Develop liaison with other IEEE disciplines and subsequent cross-education
+                </li>
+                <li>Network with technical experts at Societies, Section activities and local chapters</li>
+                <li>Access to subject matters restricted to society members</li>
+                <li>Professional development—Interface/work with other engineering leaders; promote personal career path; and build technical skills</li>
+                <li>Contribute to teaching, papers, presentations and standards development</li>
+              </ul>
+              <p class="lead">
+                <a class="btn btn-primary btn-lg" href="https://site.ieee.org/pses-news/2017/10/06/ieee-society-membership/" role="button">Know more</a>
+              </p>
+            </div>
+
+          </div>
+        </div>
+      </section>
+        <section>
+          <div class="col-xs-12 bg-info text-center text-light">
+            <div class="jumbotron jumbotron-fluid bg-info">
+              <div class="container">
+                <h1 class="display-4">Better time to<br>part of IEEE</h1>
+                <p class="lead">If you intreated to join with IEEE?</p>
+                <p class="lead">
+                  <a class="btn  btn-light btn-lg" href="https://www.ieee.org/membership/join/index.html?WT.mc_id=hc_join" role="button">Join IEEE</a>
+                </p>
+              </div>
+              </div>
+            </div>
+          </div>
+        </section>
+        <section class="bg-light p-5">
+          <div class="container">
+            <h2 id="Societies" class="text-center">IEEE MBCCET SB <br>Societies</h2>
+            <div class="row mt-5">
+              <div class="col-md-4">
+                <div class="card p-3 my-3" style="width: 18rem;">
+                  <img class="card-img-top" src="image/CS.png" alt="Card image cap">
+                  <div class="card-body">
+                    <p class="card-text">Empowering Computer Science and Engineering Professionals to Fuel Continued Advancement</p>
+                    
+                    <a href="https://www.computer.org/about#:~:text=We%20Are%20the%20Largest%20Global,Meet%20Society%20Leadership." class="btn btn-primary">Know more</a>
+                  </div>
+                </div>
+              </div>
+              <div class="col-md-4">
+                <div class="card p-3 my-3" style="width: 18rem;">
+                  <img class="card-img-top" src="image/CIS.png" alt="Card image cap ">
+                  <div class="card-body">
+                  
+                    <p class="card-text">Focuses on computational intelligence, a collection of biologically and linguistically motivated computational paradigms, including the theory, design, application.</p>
+                    <a href="https://www.ieee.org/membership-catalog/productdetail/showProductDetailPage.html?product=MEMCIS011#:~:text=Focuses%20on%20computational%20intelligence%2C%20a,systems%2C%20and%20hybrid%20intelligent%20systems." class="btn btn-primary">Know more</a>
+                  </div>
+                </div>
+              </div>
+              <div class="col-md-4">
+                <div class="card p-3 my-3" style="width: 18rem;">
+                  <img class="card-img-top" src="image/WIE.png" alt="Card image cap">
+                  <div class="card-body">
+                   
+                    <p class="card-text">IEEE Women in Engineering (WIE) is the largest international professional organization dedicated to promoting women engineers and scientists.</p>
+                    <a href="https://www.ieee.org/membership-catalog/productdetail/showProductDetailPage.html?product=MEMWIE050#:~:text=IEEE%20Women%20in%20Engineering%20(WIE,in%20a%20career%20in%20engineering." class="btn btn-primary">Know more</a>
+                  </div>
+                </div>
+              </div>
+              <div class="col-md-4">
+                <div class="card p-3 my-3" style="width: 18rem;">
+                  <img class="card-img-top" src="image/IAS.png" alt="Card image cap">
+                  <div class="card-body">
+                   
+                    <p class="card-text">IEEE Industry Applications Society will be a world leader in the advancement of science and technology linking theory and practice in the application of electrical and electronic systems for the benefit of humanity.</p>
+                    <a href="https://ias.ieee.org/about-ias.html#:~:text=One%20of%20the%20largest%20special,its%20nearly%2014%2C000%20worldwide%20members." class="btn btn-primary">Know more</a>
+                  </div>
+                </div>
+              </div>
+              <div class="col-md-4">
+                <div class="card p-3 my-3" style="width: 18rem;">
+                  <img class="card-img-top" src="image/PES.png" alt="Card image cap">
+                  <div class="card-body">
+                   
+                    <p class="card-text">Focused on the scientific and engineering knowledge about electric power and energy.for developing standards that guide the development and construction of equipment and systems. </p>
+                    <br>
+                    <a href="https://www.ieee-pes.org/about-pes#:~:text=The%20Power%20%26%20Energy%20Society%20(PES,industry%20and%20the%20general%20public." class="btn btn-primary">Know more</a>
+                  </div>
+                </div>
+              </div>
+           
+             
+              </section>
+              <section class="bg-light p-5">
+                <div class="container">
+                  <h2 id="sb" class="text-center">IEEE MBCCET SB <br>Execom</h2>
+                  <div class="row mt-5">
+                    <div class="col-md-4">
+                    <div class="card text-center p-3 my-3" style="width: 18rem;">
+                      <i class="fa-solid fa-user display-1"></i>
+                      <div class="card-body">
+                        <p class="card-tex text-center">Prof Aryalakshmi R<br>SB Counselor</p>
+                      </div>
+                    </div>
+                    </div>
+                    <div class="col-md-4">
+                      <div class="card text-center p-3 my-3" style="width: 18rem;">
+                        <i class="fa-solid fa-user display-1"></i>
+                        <div class="card-body">
+                          <p class="card-tex text-center">Paul Shane<br>Chair</p>
+                        </div>
+                      </div>
+                      </div>
+                      <div class="col-md-4">
+                        <div class="card text-center p-3 my-3" style="width: 18rem;">
+                          <i class="fa-solid fa-user display-1"></i>
+                          <div class="card-body">
+                            <p class="card-tex text-center">Aleena Rose<br>MD</p>
+                          </div>
+                       
+                    </section>
+                    
+            
+            <section class="bg-light p-5">
+              <div class="container">
+                <h2 id="cs" class="text-center">IEEE MBCCET SB <br>Execom CS</h2>
+                <div class="row mt-5">
+                  <div class="col-md-4">
+                  <div class="card text-center p-3 my-3" style="width: 18rem;">
+                    <i class="fa-solid fa-user display-1"></i>
+                    <div class="card-body">
+                      <p class="card-tex text-center">Abhiram T Sabu<br>Chair</p>
+                    </div>
+                  </div>
+                  </div>
+                  <div class="col-md-4">
+                    <div class="card text-center p-3 my-3" style="width: 18rem;">
+                      <i class="fa-solid fa-user display-1"></i>
+                      <div class="card-body">
+                        <p class="card-tex text-center">Merin<br>Vice Chair</p>
+                      </div>
+                    </div>
+                    </div>
+                    <div class="col-md-4">
+                      <div class="card text-center p-3 my-3" style="width: 18rem;">
+                        <i class="fa-solid fa-user display-1"></i>
+                        <div class="card-body">
+                          <p class="card-tex text-center">Minnu Mol Lawrwnce<br>Secretary</p>
+                        </div>
+                      </div>
+                      </div>
+                      <div class="col-md-4">
+                        <div class="card text-center p-3 my-3" style="width: 18rem;">
+                          <i class="fa-solid fa-user display-1"></i>
+                          <div class="card-body">
+                            <p class="card-tex text-center">Vishal S<br>MD</p>
+                          </div>
+                        </div>
+                        </div>
+                  </div>
+                  
+                  </section>
+                  <section class="bg-light p-5">
+                    <div class="container">
+                     <h2 id="cis" class="text-center">IEEE MBCCET SB <br>Execom CIS</h2>
+                      <div class="row mt-5">
+                        <div class="col-md-4">
+                        <div class="card text-center p-3 my-3" style="width: 18rem;">
+                          <i class="fa-solid fa-user display-1"></i>
+                          <div class="card-body">
+                            <p class="card-tex text-center">Joseph Dennis<br>Chair</p>
+                          </div>
+                        </div>
+                        </div>
+                        <div class="col-md-4">
+                          <div class="card text-center p-3 my-3" style="width: 18rem;">
+                            <i class="fa-solid fa-user display-1"></i>
+                            <div class="card-body">
+                              <p class="card-tex text-center">Shinas<br>Vice Chair</p>
+                            </div>
+                          </div>
+                          </div>
+                          <div class="col-md-4">
+                            <div class="card text-center p-3 my-3" style="width: 18rem;">
+                              <i class="fa-solid fa-user display-1"></i>
+                              <div class="card-body">
+                                <p class="card-tex text-center">Nandhana<br>Secretary</p>
+                              </div>
+                            </div>
+                            </div>
+                            <div class="col-md-4">
+                              <div class="card text-center p-3 my-3" style="width: 18rem;">
+                                <i class="fa-solid fa-user display-1"></i>
+                                <div class="card-body">
+                                  <p class="card-tex text-center">Sudheesh A<br>MD</p>
+                                </div>
+                              </div>
+                              </div>
+                        </div>
+                        
+                        </section>
+                        <section class="bg-light p-5">
+                          <div class="container">
+                            <h2 id="wie" class="text-center">IEEE MBCCET SB <br>Execom WIE</h2>
+                            <div class="row mt-5">
+                              <div class="col-md-4">
+                              <div class="card text-center p-3 my-3" style="width: 18rem;">
+                                <i class="fa-solid fa-user display-1"></i>
+                                <div class="card-body">
+                                  <p class="card-tex text-center">Aney Manoj<br>Chair</p>
+                                </div>
+                              </div>
+                              </div>
+                              <div class="col-md-4">
+                                <div class="card text-center p-3 my-3" style="width: 18rem;">
+                                  <i class="fa-solid fa-user display-1"></i>
+                                  <div class="card-body">
+                                    <p class="card-tex text-center">Aleena<br>Vice Chair</p>
+                                  </div>
+                                </div>
+                                </div>
+                                <div class="col-md-4">
+                                  <div class="card text-center p-3 my-3" style="width: 18rem;">
+                                    <i class="fa-solid fa-user display-1"></i>
+                                    <div class="card-body">
+                                      <p class="card-tex text-center">Aleena Rose<br>WIC</p>
+                                    </div>
+                                 
+                              </section>
+                              <section class="bg-light p-5">
+                                <div class="container">
+                                  <h2 id="ias" class="text-center">IEEE MBCCET SB <br>Execom IAS</h2>
+                                  <div class="row mt-5">
+                                    <div class="col-md-4">
+                                    <div class="card text-center p-3 my-3" style="width: 18rem;">
+                                      <i class="fa-solid fa-user display-1"></i>
+                                      <div class="card-body">
+                                        <p class="card-tex text-center">Eldhose KV<br>Chair</p>
+                                      </div>
+                                    </div>
+                                    </div>
+                                    <div class="col-md-4">
+                                      <div class="card text-center p-3 my-3" style="width: 18rem;">
+                                        <i class="fa-solid fa-user display-1"></i>
+                                        <div class="card-body">
+                                          <p class="card-tex text-center">Nandhana vind<br>Vice Chair</p>
+                                        </div>
+                                      </div>
+                                      </div>
+                                     
+                                    </section>
+                            
+                      
+<footer id="contact" id="home" class="bg-info">
+  <div class="container">
+  <div class="row">
+  <div class="col-md-12 text-center text-light">
+   <h3 id="social">Follow IEEE MBCCET SB<br>ON</h3>
+   <a href="https://in.linkedin.com/in/mbccet-ieee-sb-1170a31aa"><i class="fa-brands fa-linkedin display-5"></i></a>
+   <a href="https://www.facebook.com/ieeembccet/"><i class="fa-brands fa-facebook display-5"></i></a>
+   <a href="https://www.instagram.com/ieee_sb_mbccet/?hl=en"><i class="fa-brands fa-square-instagram display-5"></i></a>
+   <br>
+   <u>
+   <br>
+   <a href="https://instagram.com/__vishal.s____?igshid=YmMyMTA2M2Y=" class="bg-light"><h6>Designed & developed by Web Master IEEE MBCCET SB</h6></a>
+</div>
+  </div>
+</footer>
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/popper.js@1.14.7/dist/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@4.3.1/dist/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+<script src="https://kit.fontawesome.com/86662a9bb0.js" crossorigin="anonymous"></script>
+</body>
+</html>
