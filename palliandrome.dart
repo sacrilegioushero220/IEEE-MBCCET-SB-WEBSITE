@@ -1,3 +1,4 @@
+# this program helps to find palliandrome 
 void main() {
   int reminder, sum = 0, temp;
   int number = 54545;
